@@ -16,7 +16,7 @@ from email.utils import format_datetime
 from datetime import datetime, timezone, timedelta
 from xml.sax.saxutils import escape
 
-BASE = "https://k64gpt2cnr-source.github.io/daily-download"
+BASE = "https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main"
 KEEP_EPISODES = 14
 TITLE = "Daily Download"
 AUTHOR = "Daily Download"

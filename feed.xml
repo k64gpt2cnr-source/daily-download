@@ -4,19 +4,19 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Daily Download</title>
-    <link>https://k64gpt2cnr-source.github.io/daily-download/</link>
+    <link>https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/</link>
     <description>A daily news brief for Nishi. Real estate first, then world news, markets, entertainment, football and local NJ/NY. Roughly fifteen minutes, read by a British host.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jul 2026 22:06:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 22:07:26 +0000</lastBuildDate>
     <itunes:author>Daily Download</itunes:author>
     <itunes:summary>A daily news brief for Nishi. Real estate first, then world news, markets, entertainment, football and local NJ/NY. Roughly fifteen minutes, read by a British host.</itunes:summary>
     <itunes:type>episodic</itunes:type>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:image href="https://k64gpt2cnr-source.github.io/daily-download/cover.jpg"/>
+    <itunes:image href="https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/cover.jpg"/>
     <image>
-      <url>https://k64gpt2cnr-source.github.io/daily-download/cover.jpg</url>
+      <url>https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/cover.jpg</url>
       <title>Daily Download</title>
-      <link>https://k64gpt2cnr-source.github.io/daily-download/</link>
+      <link>https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/</link>
     </image>
     <itunes:category text="News">
       <itunes:category text="Business News"/>
@@ -31,7 +31,7 @@
       <itunes:summary>Three things for the desk: mortgage rates hit a one-year high at roughly 6.75% with the Fed meeting Wednesday and the market pricing a hike rather than a cut; New Jersey is splitting by product type, with Essex single-family selling at 112% of list in 23 days while Hudson County condos sit at 42 days; and Fannie and Freddie eliminate limited condo reviews on August 3rd, adding an estimated $1,000+ per loan. Also today: New York State median price set a record at $475,000, Manhattan rents hit a record $5,295, landlords sued the NYC Rent Guidelines Board over the Mamdani rent freeze, US-Iran strikes paused for a second day, 300,000+ evacuated in French and Spanish wildfires, and Mourinho opened his second Real Madrid spell with a 1-0 win.</itunes:summary>
       <pubDate>Mon, 27 Jul 2026 10:00:00 +0000</pubDate>
       <guid isPermaLink="false">daily-download-2026-07-27</guid>
-      <enclosure url="https://k64gpt2cnr-source.github.io/daily-download/episodes/2026-07-27.mp3" length="8616973" type="audio/mpeg"/>
+      <enclosure url="https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/episodes/2026-07-27.mp3" length="8616973" type="audio/mpeg"/>
       <itunes:duration>00:17:55</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
