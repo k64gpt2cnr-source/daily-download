@@ -33,3 +33,4 @@
   ANY FUTURE RUN THAT USES THE URL-CREDENTIAL FORM WILL FAIL SILENTLY AT PUSH. Use the header.
   Gap note: no episodes published 2026-08-26 through 2026-09-02 (8 missed days) before this run.
 2026-09-05 run started Sat Sep  5 10:01:04 UTC 2026
+2026-09-05 episode published Sat Sep  5 10:10:35 UTC 2026; push via http.extraheader header-auth (URL-credential form still denied by proxy)
