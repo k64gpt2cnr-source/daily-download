@@ -43,3 +43,4 @@
 2026-09-14 run started Mon Sep 14 10:01:03 UTC 2026
 2026-09-14 episode published Mon Sep 14 10:15:22 UTC 2026; 14:03, 2543 words; push via http.extraheader header-auth (URL-credential form still denied by proxy)
 2026-09-15 run started Tue Sep 15 10:01:23 UTC 2026
+2026-09-15 episode published Tue Sep 15 10:13:36 UTC 2026; 14:04, 2593 words; push via http.extraheader header-auth (URL-credential form still denied by proxy)
