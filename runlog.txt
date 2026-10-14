@@ -67,3 +67,4 @@
 2026-10-11 run started Sun Oct 11 10:07:11 UTC 2026
 2026-10-11 episode published Sun Oct 11 10:30:23 UTC 2026; 14:14, 2617 words; push via http.extraheader header-auth (URL-embedded creds refused by git proxy)
 2026-10-14 run started Wed Oct 14 10:09:22 UTC 2026
+2026-10-14 episode published Wed Oct 14 10:27:33 UTC 2026; 12:17, 2291 words; push via http.extraheader header-auth (URL-embedded creds refused by git proxy)
