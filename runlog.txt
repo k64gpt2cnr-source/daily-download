@@ -70,3 +70,4 @@
 2026-10-14 episode published Wed Oct 14 10:27:33 UTC 2026; 12:17, 2291 words; push via http.extraheader header-auth (URL-embedded creds refused by git proxy)
 2026-10-15 run started Thu Oct 15 10:07:45 UTC 2026
 2026-10-15 episode published Thu Oct 15 10:24:20 UTC 2026; 14:20, 2619 words; 10 TTS chunks; research 4 agents within 12-search cap
+2026-10-17 run started Sat Oct 17 10:07:00 UTC 2026
