@@ -7,7 +7,7 @@
     <link>https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/</link>
     <description>A daily news brief for Nishi. Real estate first, then world news, markets, entertainment, football and local NJ/NY. Roughly fifteen minutes, read by a British host.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 10:24:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:15:13 +0000</lastBuildDate>
     <itunes:author>Daily Download</itunes:author>
     <itunes:summary>A daily news brief for Nishi. Real estate first, then world news, markets, entertainment, football and local NJ/NY. Roughly fifteen minutes, read by a British host.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -25,6 +25,17 @@
       <itunes:name>Daily Download</itunes:name>
       <itunes:email>kambhaladinne.nishitha@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Saturday, October 17, 2026</title>
+      <description>Three things for the desk. One: the late-October Fed meeting now carries a 17 percent hike probability and December stands at 89 percent, so lock or close anything rate-sensitive before that meeting. Two: stop selling rate cuts and start selling spread, because the gap between the 10-year Treasury and the 30-year mortgage is roughly 230 basis points against a long-run normal nearer 170, and that 60-point cushion is where realistic relief comes from. Three: office tenant leverage is closing, with sublease space at a six-year low and new completions heading for a 30-year low, so open any renewal inside 18 months now rather than next spring. And three things for the world. One: Alberta votes Monday on whether to begin leaving Canada. Two: Brazil's presidential runoff is on 25 October, with the courts putting Meta's algorithm formally on notice. Three: the Nasdaq has just had its worst week since June, down 4.5 percent, as the argument shifts from whether AI is transformative to whether it is overpriced.</description>
+      <itunes:summary>Three things for the desk. One: the late-October Fed meeting now carries a 17 percent hike probability and December stands at 89 percent, so lock or close anything rate-sensitive before that meeting. Two: stop selling rate cuts and start selling spread, because the gap between the 10-year Treasury and the 30-year mortgage is roughly 230 basis points against a long-run normal nearer 170, and that 60-point cushion is where realistic relief comes from. Three: office tenant leverage is closing, with sublease space at a six-year low and new completions heading for a 30-year low, so open any renewal inside 18 months now rather than next spring. And three things for the world. One: Alberta votes Monday on whether to begin leaving Canada. Two: Brazil's presidential runoff is on 25 October, with the courts putting Meta's algorithm formally on notice. Three: the Nasdaq has just had its worst week since June, down 4.5 percent, as the argument shifts from whether AI is transformative to whether it is overpriced.</itunes:summary>
+      <pubDate>Sat, 17 Oct 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">daily-download-2026-10-17</guid>
+      <enclosure url="https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/episodes/2026-10-17.mp3" length="6137365" type="audio/mpeg"/>
+      <itunes:duration>00:12:31</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Thursday, October 15, 2026</title>
       <description>Three things for the desk. First, and it is tomorrow: the NAHB builder sentiment index for October lands Friday the sixteenth; September was 32, a three-year low, and a lower print means builder incentives rather than price cuts and a thinner 2027 supply pipeline. Second, the FOMC meets October 27th and 28th and after Wednesday's hot September CPI the risk is a hike, not a cut, so strip rate-fall assumptions out of every pipeline file and have the lock conversation today. Third, national inventory is up 4.6% year on year with 4.8 months of supply and 33 days on market, which is buyer leverage, but the Northeast median is up 4.7% year on year, the strongest gain in the country, so price to the region and ask for concessions rather than price cuts on the buy side. And three things for the world. Pope Leo XIV has been diagnosed with lung cancer and has had the lower lobe of his right lung removed in successful surgery. India has removed roughly 130 million names from its electoral rolls, triggering the largest challenge to its Election Commission in years. And the Houthis struck Saudi Aramco's own headquarters in Dhahran, with Brent around 108 dollars a barrel. Also in this episode: 30-year mortgage at 7.45%, Freddie Mac at 7.40%, the 10-year Treasury just under 5.2%, FHFA easing credit-data rules, Netflix cutting 1,000 jobs, Real Madrid winning 4-3 at Roma, and the Upper West Side going on a fast track for affordable housing.</description>
@@ -165,17 +176,6 @@
       <guid isPermaLink="false">daily-download-2026-09-18</guid>
       <enclosure url="https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/episodes/2026-09-18.mp3" length="6455779" type="audio/mpeg"/>
       <itunes:duration>00:13:25</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tuesday, September 15, 2026</title>
-      <description>Three things for the desk: Anchor property tax relief payments roll out in New Jersey this week, so get ahead of the client question. The Fed decides tomorrow afternoon and the market is pricing a hike rather than a cut, so anyone floating a rate today is taking a live position on it, and mind the gap between the 6.76 percent Freddie Mac survey your clients read in the paper and the 7.17 percent daily tracker they get quoted at the closing table. And New Jersey's August figures show supply up 6.9 percent and closed sales down 2.4 percent while homes still close at 101.8 percent of list, a seller's market loosening at the edges, so price to that rather than to last spring. And three things for the world: the Federal Reserve may raise rates tomorrow, with oil above 100 dollars a barrel the reason; the Iran war has moved into the shipping lanes, with a vessel struck in the Strait of Hormuz, Gulf talks postponed and a Saudi pipeline shut; and the AI slowdown argument went political in a single weekend, with Dario Amodei calling for a pause, Sam Altman, Elon Musk and Demis Hassabis agreeing, and the White House and the Speaker of the House saying no. Also inside: Emmy night, Monday's chip-led selloff, and Mourinho's Madrid past Rayo four-one.</description>
-      <itunes:summary>Three things for the desk: Anchor property tax relief payments roll out in New Jersey this week, so get ahead of the client question. The Fed decides tomorrow afternoon and the market is pricing a hike rather than a cut, so anyone floating a rate today is taking a live position on it, and mind the gap between the 6.76 percent Freddie Mac survey your clients read in the paper and the 7.17 percent daily tracker they get quoted at the closing table. And New Jersey's August figures show supply up 6.9 percent and closed sales down 2.4 percent while homes still close at 101.8 percent of list, a seller's market loosening at the edges, so price to that rather than to last spring. And three things for the world: the Federal Reserve may raise rates tomorrow, with oil above 100 dollars a barrel the reason; the Iran war has moved into the shipping lanes, with a vessel struck in the Strait of Hormuz, Gulf talks postponed and a Saudi pipeline shut; and the AI slowdown argument went political in a single weekend, with Dario Amodei calling for a pause, Sam Altman, Elon Musk and Demis Hassabis agreeing, and the White House and the Speaker of the House saying no. Also inside: Emmy night, Monday's chip-led selloff, and Mourinho's Madrid past Rayo four-one.</itunes:summary>
-      <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="false">daily-download-2026-09-15</guid>
-      <enclosure url="https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/episodes/2026-09-15.mp3" length="6763101" type="audio/mpeg"/>
-      <itunes:duration>00:14:04</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
