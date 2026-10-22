@@ -7,7 +7,7 @@
     <link>https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/</link>
     <description>A daily news brief for Nishi. Real estate first, then world news, markets, entertainment, football and local NJ/NY. Roughly fifteen minutes, read by a British host.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 10:26:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 10:27:17 +0000</lastBuildDate>
     <itunes:author>Daily Download</itunes:author>
     <itunes:summary>A daily news brief for Nishi. Real estate first, then world news, markets, entertainment, football and local NJ/NY. Roughly fifteen minutes, read by a British host.</itunes:summary>
     <itunes:type>episodic</itunes:type>
@@ -25,6 +25,17 @@
       <itunes:name>Daily Download</itunes:name>
       <itunes:email>kambhaladinne.nishitha@gmail.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Thursday, October 22, 2026</title>
+      <description>Three things for the desk. One: PulteGroup reports third-quarter results this morning, and the incentive and rate-buydown spend is the best read we get on how much pain is in new construction. Two: Freddie Mac's weekly survey publishes today and the daily tracker went into it flat at 7.40 percent, so this is a plateau rather than a rally — with the FOMC minutes pointing to another increase and the 10-year at 5.13 percent, the case for locking rather than floating is about as strong as it gets. Three: pending sales fell 7.3 percent and months of supply is up to 4.8, so November and December closings are already thinner than September's — rebuild the pipeline this week and price listings to the slower market. And three things for the world. One: the Strait of Hormuz remains shut on Iran's terms, with oil flows at roughly 68 percent of pre-war levels and Brent touching 111.99 dollars, and nothing is expected to move before the US midterms on 3 November. Two: Meta posted a record 64.6 billion dollars of quarterly revenue and committed up to 145 billion dollars to AI infrastructure while absorbing a 10 billion dollar settlement charge. Three: Barcelona host Real Madrid on Sunday with six points between them at the top of La Liga.</description>
+      <itunes:summary>Three things for the desk. One: PulteGroup reports third-quarter results this morning, and the incentive and rate-buydown spend is the best read we get on how much pain is in new construction. Two: Freddie Mac's weekly survey publishes today and the daily tracker went into it flat at 7.40 percent, so this is a plateau rather than a rally — with the FOMC minutes pointing to another increase and the 10-year at 5.13 percent, the case for locking rather than floating is about as strong as it gets. Three: pending sales fell 7.3 percent and months of supply is up to 4.8, so November and December closings are already thinner than September's — rebuild the pipeline this week and price listings to the slower market. And three things for the world. One: the Strait of Hormuz remains shut on Iran's terms, with oil flows at roughly 68 percent of pre-war levels and Brent touching 111.99 dollars, and nothing is expected to move before the US midterms on 3 November. Two: Meta posted a record 64.6 billion dollars of quarterly revenue and committed up to 145 billion dollars to AI infrastructure while absorbing a 10 billion dollar settlement charge. Three: Barcelona host Real Madrid on Sunday with six points between them at the top of La Liga.</itunes:summary>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
+      <guid isPermaLink="false">daily-download-2026-10-22</guid>
+      <enclosure url="https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/episodes/2026-10-22.mp3" length="6943257" type="audio/mpeg"/>
+      <itunes:duration>00:14:12</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Tuesday, October 20, 2026</title>
       <description>Three things for the desk. First, today: September housing starts and permits at 8:30am Eastern and September pending home sales at 10am — pending sales is the freshest read on September contracts because existing home sales do not print again until 12 November. Second, 43 percent of builders cut prices in October averaging 6 percent, with 65 percent stacking incentives — pull new-development incentive sheets into your resale negotiations this week, because your sellers are competing with a 6 percent discount whether they know it or not. Third, the FOMC meets 28 October with the funds range at 3.75 to 4.00 percent and the market seriously debating a hike rather than a cut — stop telling buyers to wait for spring, and anyone with a lock expiring in three weeks should be having that conversation today. And three things for the world. One, President Trump suspended a tranche of Russia sanctions two days before they would have taken effect, drawing bipartisan criticism, while Putin has floated a three-way summit with Trump and Xi next month. Two, France saw protests across more than 140 cities turn violent with more than 2,000 detained, and Macron has refused his interior minister's offered resignation. Three, Israel votes on 27 October, its first election since October 2023, with most polling showing Netanyahu's coalition short of a majority.</description>
@@ -165,17 +176,6 @@
       <guid isPermaLink="false">daily-download-2026-09-24</guid>
       <enclosure url="https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/episodes/2026-09-24.mp3" length="6466143" type="audio/mpeg"/>
       <itunes:duration>00:13:27</itunes:duration>
-      <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Tuesday, September 22, 2026</title>
-      <description>Three things for the desk: talk rate locks this week, because the Fed hiked to 3.75-4.00% and signalled one more, Freddie Mac is at 6.95% and the daily trackers are above 7%; warn commuter buyers about the Portal North Bridge cutover, which means fewer NJ Transit trains for about five weeks from October; and look at builder incentives, since Lennar's orders fell 9% and builders with slowing sales buy down rates. Also ask lenders whether VantageScore is now an option for thin-file borrowers. Three things for the world: the Fed's first hike since 2023; the UN General Assembly opens in New York, with a possible Trump-Zelenskyy meeting and President Xi arriving for a state visit; and big losses for Germany's political centre, with the AfD winning in the east and Die Linke winning Berlin.</description>
-      <itunes:summary>Three things for the desk: talk rate locks this week, because the Fed hiked to 3.75-4.00% and signalled one more, Freddie Mac is at 6.95% and the daily trackers are above 7%; warn commuter buyers about the Portal North Bridge cutover, which means fewer NJ Transit trains for about five weeks from October; and look at builder incentives, since Lennar's orders fell 9% and builders with slowing sales buy down rates. Also ask lenders whether VantageScore is now an option for thin-file borrowers. Three things for the world: the Fed's first hike since 2023; the UN General Assembly opens in New York, with a possible Trump-Zelenskyy meeting and President Xi arriving for a state visit; and big losses for Germany's political centre, with the AfD winning in the east and Die Linke winning Berlin.</itunes:summary>
-      <pubDate>Tue, 22 Sep 2026 10:00:00 +0000</pubDate>
-      <guid isPermaLink="false">daily-download-2026-09-22</guid>
-      <enclosure url="https://raw.githubusercontent.com/k64gpt2cnr-source/daily-download/main/episodes/2026-09-22.mp3" length="6197672" type="audio/mpeg"/>
-      <itunes:duration>00:12:53</itunes:duration>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
