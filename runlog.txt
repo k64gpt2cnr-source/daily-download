@@ -90,3 +90,4 @@
 2026-10-31 episode published Sat Oct 31 10:19:12 UTC 2026; 14:22, 2620 words; 10 TTS chunks; research 4 agents within 12-search cap (soccer/local thin, orchestrator did bounded 4-search + 2-fetch verification pass); push via http.extraheader header-auth (URL-embedded creds refused by git proxy)
 2026-11-02 run started Mon Nov  2 10:11:10 UTC 2026
 2026-11-02 episode published Mon Nov  2 10:30:56 UTC 2026; 14:54, 2607 words; 10 TTS chunks; research 4 agents within 12-search cap, heavy flagging so Fed chair and Iran leader names dropped; push via http.extraheader header-auth (URL-embedded creds refused by git proxy)
+2026-11-03 run started Tue Nov  3 10:06:59 UTC 2026
