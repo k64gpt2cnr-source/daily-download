@@ -93,3 +93,4 @@
 2026-11-03 run started Tue Nov  3 10:06:59 UTC 2026
 2026-11-03 episode published Tue Nov  3 10:28:22 UTC 2026; 14:33, 2596 words; 10 TTS chunks; research 4 agents within 12-search cap (housing policy and homebuilder equities thin, PL scores and transfers dropped as unverified); push via http.extraheader header-auth (URL-embedded creds refused by git proxy)
 2026-11-04 run started Wed Nov  4 10:07:35 UTC 2026
+2026-11-04 episode published Wed Nov  4 10:17:38 UTC 2026; 14:50, 2618 words; 10 TTS chunks; research 4 agents (world agent overran cap at 16 searches); dropped Treasury/oil/gold levels, Senate seat counts, league tables and all transfers as unverified; no NJ/NY residential data available; push via http.extraheader header-auth (URL-embedded creds refused by git proxy)
